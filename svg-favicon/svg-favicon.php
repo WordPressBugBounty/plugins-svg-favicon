@@ -14,7 +14,7 @@
  * Plugin Name:       SVG Favicon
  * Plugin URI:        https://a415production.com/products/plugins/svg-plugin
  * Description:       The official SVG Favicon plugin.
- * Version:           1.5.2
+ * Version:           1.5.5
  * Author:            a 415 Production
  * Author URI:        https://a415production.com
  * License:           GPL-2.0+
